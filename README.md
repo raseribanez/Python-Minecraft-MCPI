@@ -1,8 +1,6 @@
 # Python-Minecraft-MCPI
 Python + Minecraft = In Progress!!!!
 
-Well Slap my face and call me Dumbo
-
 All this time Ive had the Raspberry Pi sitting there, Ive even had a mess about with the default version of Minecraft
 that comes with Raspbian....but I never made the connection between Python...and Minecraft
 
@@ -27,3 +25,5 @@ minecraft, you can activate dynamite and other blocks etc etc In the RPi version
 Using Python you can set the blocks to do things, and set a timer for the dynamite - so it is really cool
 
 As I mess around with it, I will keep a folder of scripts, and upload them when they are worth uploading!
+
+I also have some code from mcpipy's repo and a few others that do some awesome stuff so I might put a few of them up here but obviously I want the permission first! 
